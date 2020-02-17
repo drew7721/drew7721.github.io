@@ -4,8 +4,7 @@ title: Dev Blog
 email: drew7721@gmail.com
 description: >-
   Notes and articles about different projects and development research.
-baseurl: "/"
-url: "https://drew7721.github.io"
+baseurl: ""
 
 # Connect and social media
 github_username:  drew7721
