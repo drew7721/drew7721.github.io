@@ -1,1 +1,24 @@
+# Welcome to Jekyll!
+
+title: Dev Blog
+email: drew7721@gmail.com
+description: >-
+  Notes and articles about different projects and development research.
+baseurl: "/"
+url: "https://drew7721.github.io"
+
+# Connect and social media
+github_username:  drew7721
+
+# Build settings
 theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+  - .sass-cache/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
