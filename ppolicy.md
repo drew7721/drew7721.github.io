@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: Privacy Policy
 permalink: /privacy-policy/
 ---
-
-# Privacy Policy
-
 
 Your privacy is important to us. It is JustinKase.ca's policy to respect your privacy regarding any information we may collect from you across our website, http://justinkase.ca, and other sites we own and operate.
 
